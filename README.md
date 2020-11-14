@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fshields.io" />][blog]
+https://img.shields.io/github/stars/HeyyMrDJ/InfrastructureAsCode?style=social
