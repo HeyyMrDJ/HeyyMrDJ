@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [! [Generic] (https://img.shields.io/github/stars/HeyyMrDJ/InfrastructureAsCode?)](https://github.com/HeyyMrDJ/InfrastructureAsCode)]
+
+[![Generic badge](https://img.shields.io/github/stars/HeyyMrDJ/InfrastructureAsCode?)](https://shields.io/)
