@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - #### Infrastructure As Code
-[![Infrastructure As Code](https://img.shields.io/github/stars/HeyyMrDJ/InfrastructureAsCode?style=social)](https://github.com/HeyyMrDJ/InfrastructureAsCode)
+  - [![Infrastructure As Code](https://img.shields.io/github/stars/HeyyMrDJ/InfrastructureAsCode?style=social)](https://github.com/HeyyMrDJ/InfrastructureAsCode)
 
 
 
