@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Test](https://img.shields.io/github/stars/HeyyMrDJ/InfrastructureAsCode?style=social)
+![https://github.com/HeyyMrDJ/InfrastructureAsCode](https://img.shields.io/github/stars/HeyyMrDJ/InfrastructureAsCode?style=social)
