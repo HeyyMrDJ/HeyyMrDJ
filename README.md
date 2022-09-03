@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 #### Infrastructure As Code 
   [![Infrastructure As Code](https://img.shields.io/github/stars/HeyyMrDJ/InfrastructureAsCode?style=social)](https://github.com/HeyyMrDJ/InfrastructureAsCode)
 
+#### docker-k8s-quake3-server
+  [![Infrastructure As Code](https://img.shields.io/github/stars/HeyyMrDJ/docker-k8s-quake3-server?style=social)](https://github.com/HeyyMrDJ/docker-k8s-quake3-server)
 
 
