@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### K8s Todo list 
+  [![k8s_todo](https://img.shields.io/github/stars/HeyyMrDJ/k8s_todo?style=social)](https://github.com/HeyyMrDJ/k8s_todo)
+  
 #### Infrastructure As Code 
   [![Infrastructure As Code](https://img.shields.io/github/stars/HeyyMrDJ/InfrastructureAsCode?style=social)](https://github.com/HeyyMrDJ/InfrastructureAsCode)
 
